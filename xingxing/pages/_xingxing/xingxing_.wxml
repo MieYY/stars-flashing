@@ -1,0 +1,6 @@
+<!--pages/_xingxing/xingxing_.wxml-->
+ <view class='' style='width:1200rpx;height: 100vh;background:#000;'>
+  <canvas canvas-id="canvas" style='width:1200rpx;height: 100vh'></canvas>
+</view> 
+
+

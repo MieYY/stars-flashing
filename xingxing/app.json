@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/_xingxing/xingxing_"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "星星",
+    "navigationBarTextStyle":"black"
+  }
+}
